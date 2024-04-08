@@ -1,0 +1,15 @@
+{
+    "categorys": [
+        {"category": "Bildiri Mesajı", "description": "Description"},
+        {"category": "Buton İsmi", "description": "Description"},
+        {"category": "Buton Emojisi", "description": "Description"},
+        {"category": "Buton Rengi", "description": "Description"},
+        {"category": "Destek Talepleri Onay Kanalı", "description": "Description"},
+        {"category": "Onaylanan Taleplerin Düşeceği Kategori", "description": "Description"},
+        {"category": "Destek talebi oluşturan roller", "description": "Description"},
+        {"category": "Destek talebine onay/ret veren roller", "description": "Description"},
+        {"category": "Menü Konuları", "description": "Description"},
+        {"category": "Kapanan Taleplerin Log Kanalı", "description": "Description"},
+        {"category": "Mesajı Sil", "description": "Description"}
+    ]
+}

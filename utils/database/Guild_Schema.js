@@ -1,0 +1,25 @@
+import mongoose from "mongoose";
+
+export default mongoose.model("Guild", new mongoose.Schema({
+	guild_id: { type: String },
+	logguildinput: { type: String },
+	logguildoutput: { type: String },
+	logguildaddtext: { type: String },
+	logchannelinputoutput: { type: String },
+	logdeletedandeditedmsg: { type: String },
+	logusernamechange: { type: String },
+	logroleadd: { type: String },
+	loguserban: { type: String },
+	loguserkick: { type: String },
+	logchannelupdate: { type: String },
+	logroleupdate: { type: String },
+	logmemberdaddType: { type: String },
+	memberdaddRole: { type: String },
+	registersystem: { type: String },
+	registerrole: { type: String },
+	registerunrole: { type: String },
+	registermodrole: { type: String },
+	registerchannel: { type: String },
+	selfrolemenu: { type: String },
+	selfrolemenud: { type: String },
+}));

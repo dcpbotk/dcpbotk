@@ -1,0 +1,4 @@
+[
+    { "setLabel": "Roller", "setValue": "1", "schemaKey": "selfrolemenu" },
+    { "setLabel": "Kullanabilecek Rol", "setValue": "2", "schemaKey": "selfrolemenud" }
+]

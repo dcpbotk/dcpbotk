@@ -1,0 +1,167 @@
+[
+  {
+    "idOld": "1216163497801547838",
+    "name": "Yönetici",
+    "hexColor": "#e67e22",
+    "hoist": false,
+    "mentionable": false,
+    "position": 14,
+    "rawPosition": 14,
+    "defaultRole": false,
+    "permBitfield": "8"
+  },
+  {
+    "idOld": "1216168813247205416",
+    "name": "</>",
+    "hexColor": "#fffb00",
+    "hoist": false,
+    "mentionable": false,
+    "position": 13,
+    "rawPosition": 13,
+    "defaultRole": false,
+    "permBitfield": "0"
+  },
+  {
+    "idOld": "1216168581692129330",
+    "name": "Sunucu Botu",
+    "hexColor": "#a84300",
+    "hoist": false,
+    "mentionable": false,
+    "position": 12,
+    "rawPosition": 12,
+    "defaultRole": false,
+    "permBitfield": "8"
+  },
+  {
+    "idOld": "1216163543758671892",
+    "name": "Admin",
+    "hexColor": "#ff0000",
+    "hoist": false,
+    "mentionable": false,
+    "position": 11,
+    "rawPosition": 11,
+    "defaultRole": false,
+    "permBitfield": "420009146318839"
+  },
+  {
+    "idOld": "1216163570723852338",
+    "name": "Moderatör",
+    "hexColor": "#05ff64",
+    "hoist": false,
+    "mentionable": false,
+    "position": 10,
+    "rawPosition": 10,
+    "defaultRole": false,
+    "permBitfield": "230694912"
+  },
+  {
+    "idOld": "1216163977135001671",
+    "name": "Discord Yetkilisi",
+    "hexColor": "#3498db",
+    "hoist": false,
+    "mentionable": false,
+    "position": 9,
+    "rawPosition": 9,
+    "defaultRole": false,
+    "permBitfield": "230694912"
+  },
+  {
+    "idOld": "1216168455892504576",
+    "name": "Bot",
+    "hexColor": "#607d8b",
+    "hoist": false,
+    "mentionable": false,
+    "position": 8,
+    "rawPosition": 8,
+    "defaultRole": false,
+    "permBitfield": "0"
+  },
+  {
+    "idOld": "1216164343633281134",
+    "name": "Sponsor",
+    "hexColor": "#7900ff",
+    "hoist": false,
+    "mentionable": false,
+    "position": 7,
+    "rawPosition": 7,
+    "defaultRole": false,
+    "permBitfield": "67108864"
+  },
+  {
+    "idOld": "1216164374700494938",
+    "name": "Youtube Abonesi",
+    "hexColor": "#ff1e61",
+    "hoist": false,
+    "mentionable": false,
+    "position": 6,
+    "rawPosition": 6,
+    "defaultRole": false,
+    "permBitfield": "0"
+  },
+  {
+    "idOld": "1216164421987078174",
+    "name": "Nitro Booster",
+    "hexColor": "#ff00d1",
+    "hoist": false,
+    "mentionable": false,
+    "position": 5,
+    "rawPosition": 5,
+    "defaultRole": false,
+    "permBitfield": "67108864"
+  },
+  {
+    "idOld": "1216165063858323648",
+    "name": "Üye",
+    "hexColor": "#a59898",
+    "hoist": false,
+    "mentionable": false,
+    "position": 4,
+    "rawPosition": 4,
+    "defaultRole": false,
+    "permBitfield": "67108864"
+  },
+  {
+    "idOld": "1216464187312574535",
+    "name": "Cezalı",
+    "hexColor": "#95a5a6",
+    "hoist": false,
+    "mentionable": false,
+    "position": 3,
+    "rawPosition": 3,
+    "defaultRole": false,
+    "permBitfield": "0"
+  },
+  {
+    "idOld": "1224739177069936710",
+    "name": "🏆",
+    "hexColor": "#000000",
+    "hoist": false,
+    "mentionable": false,
+    "position": 2,
+    "rawPosition": 2,
+    "defaultRole": false,
+    "permBitfield": "96468992"
+  },
+  {
+    "idOld": "1217267048409858148",
+    "name": "🔑",
+    "hexColor": "#000000",
+    "hoist": false,
+    "mentionable": false,
+    "position": 1,
+    "rawPosition": 1,
+    "defaultRole": false,
+    "permBitfield": "67108864"
+  },
+  {
+    "idOld": "1216163263507861534",
+    "name": "@everyone",
+    "hexColor": "#000000",
+    "hoist": false,
+    "mentionable": false,
+    "position": 0,
+    "rawPosition": 0,
+    "defaultRole": true,
+    "permBitfield": "559623538462273"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "🔊・Sohbet 1",
+    "region": null,
+    "position": 0,
+    "rawPosition": 3,
+    "parentCat": "1216171039701340210",
+    "bitrate": 64000,
+    "userLimit": 5,
+    "isAfkChannel": false,
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "🔊・Yönetim",
+    "region": null,
+    "position": 0,
+    "rawPosition": 0,
+    "parentCat": "1216173196148215808",
+    "bitrate": 64000,
+    "userLimit": 0,
+    "isAfkChannel": false,
+    "permLocked": false,
+    "permOverwrites": []
+  },
+  {
+    "name": "📞・Sesli Destek",
+    "region": null,
+    "position": 0,
+    "rawPosition": 2,
+    "parentCat": "1224732312189665320",
+    "bitrate": 64000,
+    "userLimit": 2,
+    "isAfkChannel": false,
+    "permLocked": false,
+    "permOverwrites": []
+  },
+  {
+    "name": "🔊・Yetkili",
+    "region": null,
+    "position": 1,
+    "rawPosition": 1,
+    "parentCat": "1216173196148215808",
+    "bitrate": 64000,
+    "userLimit": 0,
+    "isAfkChannel": false,
+    "permLocked": false,
+    "permOverwrites": []
+  },
+  {
+    "name": "🔊・Sohbet 2",
+    "region": null,
+    "position": 1,
+    "rawPosition": 4,
+    "parentCat": "1216171039701340210",
+    "bitrate": 64000,
+    "userLimit": 10,
+    "isAfkChannel": false,
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "🔊・Sohbet 3",
+    "region": null,
+    "position": 2,
+    "rawPosition": 5,
+    "parentCat": "1216171039701340210",
+    "bitrate": 64000,
+    "userLimit": 20,
+    "isAfkChannel": false,
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "🎵 ・ Müzik",
+    "region": null,
+    "position": 3,
+    "rawPosition": 6,
+    "parentCat": "1216171039701340210",
+    "bitrate": 64000,
+    "userLimit": 0,
+    "isAfkChannel": false,
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "💤・AFK",
+    "region": null,
+    "position": 4,
+    "rawPosition": 7,
+    "parentCat": "1216171039701340210",
+    "bitrate": 64000,
+    "userLimit": 0,
+    "isAfkChannel": false,
+    "permLocked": true,
+    "permOverwrites": null
+  }
+]

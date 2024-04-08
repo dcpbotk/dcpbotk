@@ -1,0 +1,11 @@
+[
+    { "setLabel": "Giriş Bildiri Kanalı", "setValue": "1", "schemaKey": "logguildinput" },
+    { "setLabel": "Çıkış Bildiri Kanalı", "setValue": "2", "schemaKey": "logguildoutput" },
+    { "setLabel": "Bildiri Türü", "setValue": "3", "schemaKey": "logmemberdaddType" },
+    { "setLabel": "Otomatik Giriş Rolü", "setValue": "4", "schemaKey": "memberdaddRole" },
+    { "setLabel": "Kayıt Sistemi", "setValue": "5", "schemaKey": "registersystem" },
+    { "setLabel": "Kayıt Rolü", "setValue": "6", "schemaKey": "registerrole" },
+    { "setLabel": "Kayıtsız Rolü", "setValue": "7", "schemaKey": "registerunrole" },
+    { "setLabel": "Kayıt Moderatörü", "setValue": "8", "schemaKey": "registermodrole" },
+    { "setLabel": "Kayıt Kanalı", "setValue": "9", "schemaKey": "registerchannel" }
+]

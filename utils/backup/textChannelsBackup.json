@@ -1,0 +1,316 @@
+[
+  {
+    "name": "📋・kurallar",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 0,
+    "rawPosition": 0,
+    "parentCat": null,
+    "permLocked": false,
+    "permOverwrites": [
+      {
+        "id": "1216163263507861534",
+        "allowed": "1024",
+        "denied": "2112"
+      }
+    ]
+  },
+  {
+    "name": "➕・özel-oda-oluştur",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 0,
+    "rawPosition": 12,
+    "parentCat": "1216172830421684297",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "💬・yönetim-sohbet",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 0,
+    "rawPosition": 8,
+    "parentCat": "1216173196148215808",
+    "permLocked": false,
+    "permOverwrites": [
+      {
+        "id": "1216165063858323648",
+        "allowed": "0",
+        "denied": "1024"
+      },
+      {
+        "id": "1216163570723852338",
+        "allowed": "392510685182784",
+        "denied": "1024"
+      },
+      {
+        "id": "1216163543758671892",
+        "allowed": "410112266600272",
+        "denied": "0"
+      },
+      {
+        "id": "1216163263507861534",
+        "allowed": "0",
+        "denied": "1024"
+      },
+      {
+        "id": "1216163977135001671",
+        "allowed": "392510685182784",
+        "denied": "1024"
+      }
+    ]
+  },
+  {
+    "name": "📝・kayıtsız",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 0,
+    "rawPosition": 10,
+    "parentCat": "1224732312189665320",
+    "permLocked": false,
+    "permOverwrites": [
+      {
+        "id": "1216163570723852338",
+        "allowed": "392407605968704",
+        "denied": "0"
+      },
+      {
+        "id": "1216163543758671892",
+        "allowed": "410112266600273",
+        "denied": "0"
+      },
+      {
+        "id": "1216163263507861534",
+        "allowed": "1024",
+        "denied": "0"
+      },
+      {
+        "id": "1216163977135001671",
+        "allowed": "392510685183809",
+        "denied": "0"
+      },
+      {
+        "id": "1216165063858323648",
+        "allowed": "1048576",
+        "denied": "1024"
+      }
+    ]
+  },
+  {
+    "name": "📢・duyurular",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 0,
+    "rawPosition": 2,
+    "parentCat": "1216168181844938802",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "💬・sohbet",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 0,
+    "rawPosition": 5,
+    "parentCat": "1216170106883674252",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "mesaj-log",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 0,
+    "rawPosition": 13,
+    "parentCat": "1216173682872029234",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "📥・hg-bb",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 1,
+    "rawPosition": 1,
+    "parentCat": null,
+    "permLocked": false,
+    "permOverwrites": [
+      {
+        "id": "1216163263507861534",
+        "allowed": "0",
+        "denied": "2112"
+      }
+    ]
+  },
+  {
+    "name": "📷・galeri",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 1,
+    "rawPosition": 6,
+    "parentCat": "1216170106883674252",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "💬・yetkili-sohbet",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 1,
+    "rawPosition": 9,
+    "parentCat": "1216173196148215808",
+    "permLocked": false,
+    "permOverwrites": [
+      {
+        "id": "1216163543758671892",
+        "allowed": "410112266600272",
+        "denied": "0"
+      },
+      {
+        "id": "1216163263507861534",
+        "allowed": "0",
+        "denied": "1024"
+      },
+      {
+        "id": "1216163570723852338",
+        "allowed": "392510685183808",
+        "denied": "0"
+      },
+      {
+        "id": "1216163977135001671",
+        "allowed": "392510685183808",
+        "denied": "0"
+      },
+      {
+        "id": "1216165063858323648",
+        "allowed": "0",
+        "denied": "1024"
+      }
+    ]
+  },
+  {
+    "name": "📞・destek",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 1,
+    "rawPosition": 11,
+    "parentCat": "1224732312189665320",
+    "permLocked": false,
+    "permOverwrites": [
+      {
+        "id": "1216165063858323648",
+        "allowed": "1049600",
+        "denied": "2048"
+      },
+      {
+        "id": "1216163543758671892",
+        "allowed": "410112266600273",
+        "denied": "0"
+      },
+      {
+        "id": "1216163570723852338",
+        "allowed": "392407605966656",
+        "denied": "2048"
+      },
+      {
+        "id": "1216163977135001671",
+        "allowed": "392201447536448",
+        "denied": "2048"
+      },
+      {
+        "id": "1216163263507861534",
+        "allowed": "1024",
+        "denied": "2048"
+      }
+    ]
+  },
+  {
+    "name": "kanal-log",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 1,
+    "rawPosition": 14,
+    "parentCat": "1216173682872029234",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "🎬・video-duyuru",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 1,
+    "rawPosition": 3,
+    "parentCat": "1216168181844938802",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "🎉・çekiliş",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 2,
+    "rawPosition": 4,
+    "parentCat": "1216168181844938802",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "mod-log",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 2,
+    "rawPosition": 15,
+    "parentCat": "1216173682872029234",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "🤖・bot-komut",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 2,
+    "rawPosition": 7,
+    "parentCat": "1216170106883674252",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "test",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 3,
+    "rawPosition": 17,
+    "parentCat": "1216173682872029234",
+    "permLocked": true,
+    "permOverwrites": null
+  },
+  {
+    "name": "🎭・roller",
+    "topic": null,
+    "nsfw": false,
+    "isSystemChannel": false,
+    "position": 3,
+    "rawPosition": 16,
+    "parentCat": "1216168181844938802",
+    "permLocked": true,
+    "permOverwrites": null
+  }
+]

@@ -1,0 +1,12 @@
+[
+    { "setLabel": "Sunucu Giriş", "setValue": "1", "schemaKey": "logguildinput" },
+    { "setLabel": "Sunucu Çıkış", "setValue": "2", "schemaKey": "logguildoutput" },
+    { "setLabel": "Ses Kanalı Giriş-Çıkış", "setValue": "3", "schemaKey": "logchannelinputoutput" },
+    { "setLabel": "Silinen ve Düzenlenen Mesaj", "setValue": "4", "schemaKey": "logdeletedandeditedmsg" },
+    { "setLabel": "Kullanıcı Adı Değiştime", "setValue": "5", "schemaKey": "logusernamechange" },
+    { "setLabel": "Kullanıcı Rolleri Güncelleme", "setValue": "6", "schemaKey": "logroleadd" },
+    { "setLabel": "Kullanıcı Yasaklama", "setValue": "7", "schemaKey": "loguserban" },
+    { "setLabel": "Kullanıcı Atma", "setValue": "8", "schemaKey": "loguserkick" },
+    { "setLabel": "Kanal Güncelleme", "setValue": "9", "schemaKey": "logchannelupdate" },
+    { "setLabel": "Rol Güncelleme", "setValue": "10", "schemaKey": "logroleupdate" }
+]
